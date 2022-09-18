@@ -14,4 +14,5 @@
 5. Возвращаем новый заполненый массив как результат
 
 Блок-схема алгоритма:
-![Diagram](Diagram.jpg)
+
+![Getting Started](Diagram.jpg)
