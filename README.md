@@ -15,3 +15,4 @@
 
 Блок-схема алгоритма:
 ![Getting Started](Diagram.png)
+![Getting Started](Diagram.png)
